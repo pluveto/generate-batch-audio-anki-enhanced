@@ -1,0 +1,1 @@
+{"name": "Generate Batch Audio", "mod": 1709818093, "min_point_version": 45, "max_point_version": 231001, "branch_index": 0, "disabled": false, "config": {"sources": [{"priority": 1, "name": "API", "url": "http://127.0.0.1:5050/?text={back}"}], "fsel": "Audio", "delay_sb": 0.0, "ksel": "(None)", "dup_cb": true, "danger_cb": false}}
